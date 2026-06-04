@@ -4,11 +4,7 @@ Solving DSA questions of TakeUForward daily for 45 days.
 Day - 1
 	
 Set Matrix Zeroes
-Solve	Editorial	
-PostLink
-YouTube
-Add Note
-Medium
+
 	
 Pascal's Triangle I
 
